@@ -1,0 +1,8 @@
+server:
+  port: 8762
+spring:
+  application:
+    name: client
+eureka:
+  instance:
+    prefer-ip-address: true
